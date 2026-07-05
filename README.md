@@ -123,9 +123,3 @@ This project helped me understand:
 - Interactive prediction interface
 - Cross-validation
 - Hyperparameter tuning
-
----
-
-## License
-
-This project is available under the MIT License.
