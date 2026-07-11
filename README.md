@@ -31,14 +31,17 @@ Features:
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- scikit-learn
-- Jupyter Notebook
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| Pandas | Data Manipulation |
+| NumPy | Numerical Computing |
+| Matplotlib | Data Visualization |
+| Scikit-Learn | Machine Learning |
+| Jupyter Notebook | Interactive Development |
+
 
 ---
 
