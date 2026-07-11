@@ -149,3 +149,8 @@ It helps others discover the project and motivates future development.
 
 This project is released under the **MIT License**.
 
+---
+
+<p align="center">
+Made with ❤️ using Python & Scikit-Learn
+</p>
