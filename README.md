@@ -127,6 +127,8 @@ This project helped me understand:
 - Cross-validation
 - Hyperparameter tuning
 
+---
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome!
